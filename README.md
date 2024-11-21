@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Sergio Henrique, I'm currently a Computer Science student and welcome to my GitHub!</h2>
+<h2 align="center">Hi 👋! My name is Sergio Henrique and I'm a student of Computer Science and welcome to my GitHub!</h2>
 
 ###
 
@@ -43,7 +43,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/ssergiohenriq/" target="_blank">
+  <a href=" " target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
