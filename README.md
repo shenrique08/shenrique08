@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Sergio Henrique and I'm a student of Computer Science and welcome to my GitHub!</h2>
+<h2 align="center">Hi 👋! My name is Sergio Henrique and I'm a Sofware Engineer and welcome to my GitHub!</h2>
 
 ###
 
