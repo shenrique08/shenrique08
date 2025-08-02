@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergio Henrique and welcome to my Github</h1>
-<h3 align="center">I'm passionate about building high-quality software, from architecture to implementation". <br>
+<h3 align="center">"I'm passionate about building high-quality software, from architecture to implementation". <br>
   That is more than just a tagline for me; it's the core principle that guides my work and studies. For me, software engineering is a craft that balances art and science, and my goal is to master both sides.☕⚡</h3>
 
 ## 🌐 Socials:
