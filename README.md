@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Sergio Henrique and welcome to my Github</h1>
+<h3 align="center">I'm passionate about building high-quality software, from architecture to implementation". <br>
+  That is more than just a tagline for me; it's the core principle that guides my work and studies. For me, software engineering is a craft that balances art and science, and my goal is to master both sides.☕⚡</h3>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sergio_henriquee08/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sergio-henrique-tech) 
 
